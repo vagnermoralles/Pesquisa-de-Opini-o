@@ -1,5 +1,5 @@
 # PESQUISA DE OPINIÃO
-# COMTAGEM
+# CONTAGEM
 qtd_excelente = 0
 qtd_ruim = 0
 
